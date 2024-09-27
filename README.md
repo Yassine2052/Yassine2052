@@ -10,7 +10,7 @@
   <img src="/rust.png" title="Rust" alt="Rust" height="48px" />
 </div>
 
-## Frameworks && Envs && Tools
+## Frameworks, Envs && Tools
 <div>
   <img src="/nodejs.png" title="Node JS" alt="Node JS" height="48px" />
   <img src="/.net.png" title=".NET" alt=".NET" height="48px" />
