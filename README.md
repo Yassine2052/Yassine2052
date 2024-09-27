@@ -9,8 +9,8 @@
   <img src="/php.png" title="PHP" alt="PHP" height="48px" />&nbsp;
   <img src="/rust.png" title="Rust" alt="Rust" height="48px" align="left" />
 </div>
-
-### Frameworks, Envs && Tools
+<br>
+## Frameworks, Envs && Tools
 <br>
 <div>
   <img src="/nodejs.png" title="Node JS" alt="Node JS" height="48px" align="left" />&nbsp;
@@ -21,8 +21,8 @@
   <img src="/react-native.webp" title="React-Native" alt="React-Native" height="48px" align="left" />&nbsp;
   <img src="/nginx.png" title="NGINX" alt="NGINX" height="48px" align="left" />
 </div>
-
-### Databases
+<br>
+## Databases
 <br>
 <div>
   <img src="/mssql.png" title="MSSQL" alt="MSSQL" height="48px" align="left" />&nbsp;
