@@ -1,6 +1,5 @@
-## Hi 👋, I'm Someone
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassine2052&show_icons=true&theme=radical)
+## Hi there👋, I'm Someone
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassine2052&show_icons=true&theme=radical) -->
 <!--
 **Yassine2052/Yassine2052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
