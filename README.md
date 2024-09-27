@@ -43,6 +43,6 @@
     <img align="center" src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Profile" height="30" />
   </a>
   <a href="https://www.npmjs.com/~yashij2052" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg" alt="NPM Profile" height="30" width="40" />
+    <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fkpose%2Fhow-to-develop-and-publish-your-react-native-package-to-npm-22mo&psig=AOvVaw2y3qh9UqPdAg7umsPEqKnN&ust=1727540103271000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDwy8XC44gDFQAAAAAdAAAAABAE" alt="NPM Profile" height="30"/>
   </a>
 </p>
