@@ -1,7 +1,7 @@
 <img src="/header.png" />
 
 ## Languages
-<div style="display: inline;">
+<div style="display: flex; gap: 5px;">
   <img src="/csharp.png" title="C#" alt="C#" height="48px" />
   <img src="/js.png" title="JavaScript" alt="JavaScript" height="48px" />
   <img src="/ts.png" title="TypeScript" alt="TypeScript" height="48px" />
