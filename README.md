@@ -1,7 +1,7 @@
 <img src="/header.png" />
 
 ## Languages
-<img src="/c#.png" title="C#" alt="C#" height="48px" />
+<img src="/csharp.png" title="C#" alt="C#" height="48px" />
 <img src="/js.png" title="JavaScript" alt="JavaScript" height="48px" />
 <img src="/ts.png" title="TypeScript" alt="TypeScript" height="48px" />
 <img src="/php.png" title="PHP" alt="PHP" height="48px" />
