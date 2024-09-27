@@ -2,7 +2,6 @@
 
 ## Languages
 
-<br>
 <div>
   <img src="/csharp.png" title="C#" alt="C#" height="48px" align="left" />&nbsp;
   <img src="/js.png" title="JavaScript" alt="JavaScript" height="48px" align="left" />&nbsp;
@@ -10,11 +9,9 @@
   <img src="/php.png" title="PHP" alt="PHP" height="48px" />&nbsp;
   <img src="/rust.png" title="Rust" alt="Rust" height="48px" align="left" />
 </div>
-<br>
 
 ## Frameworks, Envs && Tools
 
-<br>
 <div>
   <img src="/nodejs.png" title="Node JS" alt="Node JS" height="48px" align="left" />&nbsp;
   <img src="/.net.png" title=".NET" alt=".NET" height="48px" align="left" />&nbsp;
@@ -24,11 +21,9 @@
   <img src="/react-native.webp" title="React-Native" alt="React-Native" height="48px" align="left" />&nbsp;
   <img src="/nginx.png" title="NGINX" alt="NGINX" height="48px" align="left" />
 </div>
-<br>
 
 ## Databases
 
-<br>
 <div>
   <img src="/mssql.png" title="MSSQL" alt="MSSQL" height="48px" align="left" />&nbsp;
   <img src="/mysql.webp" title="MySQL" alt="MySQL" height="48px" align="left" />&nbsp;
@@ -37,7 +32,6 @@
 
 ## Connect with me
 
-<br>
 <p align="left">
   <a href="https://x.com/Yassine59194898" target="blank">
     <img align="center"      src="https://camo.githubusercontent.com/be5256cc9aa95d05f7221a604f4ec52c984eba47ae25ba084b532eddbb96a390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="" height="30" /></a>
