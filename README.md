@@ -29,7 +29,9 @@
 
 ## Connect with me
 <p align="left">
-  <a href="https://x.com/Yassine59194898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/yassine-hijazi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+  <a href="https://x.com/Yassine59194898" target="blank">
+    <img align="center"      src="https://camo.githubusercontent.com/be5256cc9aa95d05f7221a604f4ec52c984eba47ae25ba084b532eddbb96a390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="" height="30" /></a>
+  <a href="https://www.linkedin.com/in/yassine-hijazi" target="blank">
+    <img align="center" src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="" height="30" width="40" /></a>
   <a href="https://www.npmjs.com/~yashij2052" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg" alt="" height="30" width="40" /></a>
 </p>
