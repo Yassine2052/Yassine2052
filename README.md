@@ -1,6 +1,7 @@
 <img src="/header.png" />
 
 ## Languages
+
 <br>
 <div>
   <img src="/csharp.png" title="C#" alt="C#" height="48px" align="left" />&nbsp;
@@ -10,7 +11,9 @@
   <img src="/rust.png" title="Rust" alt="Rust" height="48px" align="left" />
 </div>
 <br>
+
 ## Frameworks, Envs && Tools
+
 <br>
 <div>
   <img src="/nodejs.png" title="Node JS" alt="Node JS" height="48px" align="left" />&nbsp;
@@ -22,7 +25,9 @@
   <img src="/nginx.png" title="NGINX" alt="NGINX" height="48px" align="left" />
 </div>
 <br>
+
 ## Databases
+
 <br>
 <div>
   <img src="/mssql.png" title="MSSQL" alt="MSSQL" height="48px" align="left" />&nbsp;
@@ -31,6 +36,7 @@
 </div>
 
 ## Connect with me
+
 <br>
 <p align="left">
   <a href="https://x.com/Yassine59194898" target="blank">
