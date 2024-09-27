@@ -37,12 +37,12 @@
 
 <p align="left">
   <a href="https://x.com/Yassine59194898" target="_blank">
-    <img align="center" src="https://camo.githubusercontent.com/be5256cc9aa95d05f7221a604f4ec52c984eba47ae25ba084b532eddbb96a390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter Profile" height="30" />
+    <img align="center" src="/twitter.svg" height="30" />
   </a>
   <a href="https://www.linkedin.com/in/yassine-hijazi" target="_blank">
-    <img align="center" src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Profile" height="30" />
+    <img align="center" src="/linkedin.svg" alt="LinkedIn Profile" height="30" />
   </a>
   <a href="https://www.npmjs.com/~yashij2052" target="_blank">
-    <img align="center" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fkpose%2Fhow-to-develop-and-publish-your-react-native-package-to-npm-22mo&psig=AOvVaw2y3qh9UqPdAg7umsPEqKnN&ust=1727540103271000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDwy8XC44gDFQAAAAAdAAAAABAE](https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fuvlgypdjtnfsi0x5x1gd.jpeg)" alt="NPM Profile" height="30"/>
+    <img align="center" src="/npm.webp" alt="NPM Profile" height="30"/>
   </a>
 </p>
